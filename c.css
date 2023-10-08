@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(117, 192, 117)
+}
+
+.image{
+    width:120px;
+    height:120px;
+    object-fit: contain;
+}
+
+table, th, td{
+    border: 3px solid;
+    width: 37%;
+}
+
+.highlight #total{
+    display: inline-block;
+    background-color: rgb(250, 100, 100);
+}
+
+.t{
+    width: 100%;
+    display: block; 
+    text-align: center;
+    line-height: 10px; 
+  }
